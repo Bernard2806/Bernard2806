@@ -1,3 +1,5 @@
 - 👋 Hola soy Bernardo.
-- 👀 Estoy interesado en la creacion de paginas WEB (PHP-CSS-HTML-JAVASCRIP) / Creacion de VideoJuegos / Creacion de APPs Para Android
-- 🌱 Actualmente estoy aprendiendo creacion de paginas web
+
+
+![gato-girando](https://media1.tenor.com/m/8Gs8FSxX48MAAAAC/maxwell-kocykvr.gif)
+
