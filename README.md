@@ -15,7 +15,7 @@ Soy un apasionado de la programación, especialmente en C#, aunque también teng
 
 ### Cuentas
 - **Cuenta Estudiantil**: Esta es mi cuenta para proyectos académicos.
-- **[Cuenta Personal de GitHub](https://github.com/tu-cuenta-personal)**: Aquí puedes encontrar más sobre mis proyectos personales y colaboraciones.
+- **[Cuenta Personal de GitHub]()**: Aquí puedes encontrar más sobre mis proyectos personales y colaboraciones.
 
 ---
 #### English
@@ -35,6 +35,6 @@ I am passionate about programming, especially in C#, although I also have experi
 
 ### Accounts
 - **Student Account**: This is my account for academic projects.
-- **[Personal GitHub Account](https://github.com/your-personal-account)**: Here you can find more about my personal projects and collaborations.
+- **[Personal GitHub Account]()**: Here you can find more about my personal projects and collaborations.
 
 ---
