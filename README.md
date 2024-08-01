@@ -21,11 +21,9 @@
 - **Back-End Development**:
 
   - **ASP.NET**:
-  - **Frameworks**:
-    - ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23006B75.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
-    - ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23076D57.svg?style=for-the-badge&logo=entity-framework&logoColor=white)
-  - **Servicios**:
-    - ![Azure](https://img.shields.io/badge/Microsoft%20Azure-%23007FFF.svg?style=for-the-badge&logo=azure&logoColor=white)
+    - **Frameworks**:
+       - ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23006B75.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
+       - ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23076D57.svg?style=for-the-badge&logo=entity-framework&logoColor=white)
 
 - 🗃 &nbsp;Databases
 
