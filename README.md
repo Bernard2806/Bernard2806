@@ -49,7 +49,7 @@
     de entornos hasta la implementación de mecánicas básicas de juego. Aquí encontrarás los repositorios con los proyectos que realizamos durante el curso.
 
     - **[Ver proyectos](https://github.com/stars/Bernard2806/lists/curso-mi-primer-videojuego)**
-    - **[Programa del curso](https://cuch.gob.ar/wp-content/uploads/2024/08/CN-en-accion-Programa.pdf)**
+    - **[Programa del curso](https://cuch.gob.ar/wp-content/uploads/2024/08/tu-primer-videojuego-Programa.pdf)**
 
 ### Sobre mí
 Soy un apasionado de la programación, especialmente en **C#**, aunque también tengo experiencia en **PHP**. Me gusta aprender nuevas tecnologías y siempre estoy buscando oportunidades para mejorar mis habilidades.
@@ -108,7 +108,7 @@ Hello! I'm Bernardo, a 7th-year student at **Escuela Técnica Industrial Nº1 "M
     In this course at [**Centro Universitario de Chivilcoy (CUCH)**](https://cuch.gob.ar/), we learned the basics of game development using **Unity**. We covered everything from creating game environments to implementing basic gameplay mechanics. Here you can find the repositories with the projects we worked on during the course.
 
     - **[View projects](https://github.com/stars/Bernard2806/lists/curso-mi-primer-videojuego)**
-    - **[Course syllabus](https://cuch.gob.ar/wp-content/uploads/2024/08/CN-en-accion-Programa.pdf)**
+    - **[Course syllabus](https://cuch.gob.ar/wp-content/uploads/2024/08/tu-primer-videojuego-Programa.pdf)**
 
 ### About Me
 I am passionate about programming, especially **C#**, but I also have experience working with **PHP**. I'm always eager to learn new technologies and improve my skills.
