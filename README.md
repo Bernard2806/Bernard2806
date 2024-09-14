@@ -20,12 +20,13 @@
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - **Desarrollo Back-End**:
+  
+     ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23006B75.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
+  
+  - **Frameworks**:
 
-    - **ASP.NET**:
-        - **Frameworks**:
-            - ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23006B75.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
-            - ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23076D57.svg?style=for-the-badge&logo=entity-framework&logoColor=white)
-
+    ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23076D57.svg?style=for-the-badge&logo=entity-framework&logoColor=white)
+    
 - 🗃 **Bases de Datos**:
 
     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -83,7 +84,10 @@ Hello! I'm Bernardo, a 7th-year student at **Escuela Técnica Industrial Nº1 "M
 
 - **Back-End Development**:
 
-    ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23006B75.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
+     ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%23006B75.svg?style=for-the-badge&logo=aspnetcore&logoColor=white)
+  
+  - **Frameworks**:
+
     ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%23076D57.svg?style=for-the-badge&logo=entity-framework&logoColor=white)
 
 - 🗃 **Databases**:
