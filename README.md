@@ -105,7 +105,7 @@ Hello! I'm Bernardo, a 7th-year student at **Escuela Técnica Industrial Nº1 "M
     ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
     ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-- 📚 **Cursos**:
+- 📚 **Courses**:
 
   - 🎮 **Course "My First Video Game" - CUCH**:
     
