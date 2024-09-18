@@ -56,4 +56,6 @@ I am passionate about programming, especially **C#**, but I also have experience
 ### Accounts
 - **[Personal GitHub Account]()**: Find more about my personal projects and collaborations here.
 
+### [Web Resume (Spanish)](https://bernard2806.github.io/Curriculum-Vitae/)
+
 ---
