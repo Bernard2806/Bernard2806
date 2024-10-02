@@ -54,7 +54,7 @@ I am passionate about programming, especially **C#**, but I also have experience
 - **[LinkedIn Profile](https://www.linkedin.com/in/bernardo-gonzalez-erramuspe/)**: I’m looking for job opportunities and interesting project collaborations.
 
 ### Accounts
-- **[Personal GitHub Account]()**: Find more about my personal projects and collaborations here.
+- **[Personal GitHub Account](https://github.com/Lautaro4782)**: Find more about my personal projects and collaborations here.
 
 ### [Web Resume (Spanish)](https://bernard2806.github.io/Curriculum-Vitae/)
 
