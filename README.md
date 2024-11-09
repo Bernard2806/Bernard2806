@@ -19,7 +19,7 @@
 
 ###
 
-Hello! I'm Bernardo, a 7th-year student at **Escuela Técnica Industrial Nº1 "Mariano Moreno"** in Chivilcoy. This is my student account where I share my academic projects and work.
+Hello! I’m Bernardo, a 7th-year student at **Escuela Técnica Industrial Nº1 “Mariano Moreno” in Chivilcoy**. Welcome to my student account where I showcase my academic projects and work. I’m passionate about programming, web development, and technology. I have experience with C#, Entity Framework Core, and Blazor, and I’m familiar with Git and GitHub. Here, you’ll find a collection of my projects, from school assignments to personal experiments. Feel free to explore and connect with me!
 
 ---
 
