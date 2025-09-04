@@ -51,6 +51,10 @@ Hello! I’m Bernardo, a passionate programmer with experience in web developmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg" height="40" alt="Unity logo" />
+  <img width="12" />
+  <img src="https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencyinjection/10.0.0-preview.7.25380.108/icon" height="40" alt=".NET Core logo" />
+  <img width="12" />
+  <img src="https://api.nuget.org/v3-flatcontainer/microsoft.entityframeworkcore/9.0.8/icon" height="40" alt="Entity Framework Core logo" />
 </div>
 
 #### **Databases**
@@ -58,6 +62,8 @@ Hello! I’m Bernardo, a passionate programmer with experience in web developmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" height="40" alt="MariaDB logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL logo" />
 </div>
 
 #### **Web and Cloud Platforms**
@@ -72,6 +78,12 @@ Hello! I’m Bernardo, a passionate programmer with experience in web developmen
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/448307/azure-devops.svg" height="40" alt="Azure DevOps logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" height="40" alt="Gitea logo" />
 </div>
 
 ---
