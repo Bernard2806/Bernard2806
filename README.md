@@ -8,12 +8,6 @@
     <a href="https://www.linkedin.com/in/bernardo-gonzalez-erramuspe/">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
     </a>
-    <a href="https://www.instagram.com/berni286">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="25" alt="instagram logo" />
-    </a>
-    <a href="https://x.com/Bernardo2547">
-        <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" height="25" alt="X logo" />
-    </a>
     <a href="https://bernard2806.is-a.dev/">
         <img src="https://img.shields.io/badge/Portafolio%20(ES)-%2300C853.svg?style=for-the-badge&logo=web&logoColor=white" height="25" alt="portafolio en español" />
     </a>
