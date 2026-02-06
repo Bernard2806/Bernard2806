@@ -82,16 +82,10 @@ Hello! I’m Bernardo, a passionate programmer with experience in web developmen
 
 ---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">📊   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernard2806&show_icons=true&theme=dark&locale=en" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bernard2806&show_icons=true&theme=dark&locale=en&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bernard2806&theme=dark" alt="bernard2806" />
+  <img src="https://github.com/Bernard2806/Bernard2806/blob/main/github-metrics.svg" alt="Metrics" width="75%">
 </div>
-
-###
 
 ---
