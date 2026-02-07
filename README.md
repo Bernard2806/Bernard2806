@@ -85,7 +85,7 @@ Hello! I’m Bernardo, a passionate programmer with experience in web developmen
 <h3 align="left">📊   My Stats :</h3>
 
 <div align="center">
-  <img src="https://github.com/Bernard2806/Bernard2806/blob/main/github-metrics.svg" alt="Metrics" width="75%">
+  <img src="https://github.com/Bernard2806/Bernard2806/raw/main/github-metrics.svg?v=1" alt="Metrics" width="75%">
 </div>
 
 ---
