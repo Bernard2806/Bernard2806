@@ -38,10 +38,3 @@ jobs:
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_user: "76561199243053447"
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
