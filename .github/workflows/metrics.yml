@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Generate Metrics
-        uses: lowlighter/metrics@v3.33
+        uses: Bernard2806/metrics@master
 
         with:
           token: ${{ secrets.METRICS_TOKEN }}
