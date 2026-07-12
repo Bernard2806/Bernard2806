@@ -49,5 +49,13 @@ jobs:
           plugin_lines: yes
           plugin_lines_sections: base
 
+          # Steam
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561199243053447"
+          plugin_steam_sections: recent-games, most-played
+          plugin_steam_recent_games_limit: 4
+          plugin_steam_playtime: yes
+
           # Salida
           filename: github-metrics.svg
