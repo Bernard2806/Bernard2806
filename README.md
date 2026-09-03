@@ -15,7 +15,7 @@
 
 ###
 
-Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems student at UNLu. I build with **.NET (C#), Blazor, Entity Framework Core, PHP, Java and Astro**, and I'm co-founder of **[Mate Logic](https://mate-logic.tech/)**, a software company focused on Open Source, Cloud and AI.
+Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems student at UNLu. I build with **.NET (C#), Blazor, Entity Framework Core, PHP, Java and Astro**, and I'm the founder of **[Mate Logic](https://mate-logic.tech/)**, a software company focused on Open Source, Cloud and AI.
 
 ---
 
