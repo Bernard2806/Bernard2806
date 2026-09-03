@@ -10,12 +10,12 @@
   <a href="https://bernard2806.is-a.dev/"><img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="25" /></a>
   <a href="https://www.linkedin.com/in/bernardo-gonzalez-erramuspe/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" /></a>
   <a href="mailto:bgonzalezerramuspe2006@hotmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=microsoftoutlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="25" /></a>
-  <a href="https://github.com/Mate-Logic"><img src="https://img.shields.io/static/v1?message=Mate%20Logic&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" /></a>
+  <a href="https://github.com/Mate-Logic"><img src="https://img.shields.io/static/v1?message=Mate-Logic&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" /></a>
 </div>
 
 ###
 
-Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems student at UNLu. I build with **.NET (C#), Blazor, Entity Framework Core, PHP, Java and Astro**, and I'm the founder of **[Mate Logic](https://mate-logic.tech/)**, a software company focused on Open Source, Cloud and AI.
+Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems student at UNLu. I build with **.NET (C#), Blazor, Entity Framework Core, PHP, Java and Astro**, and I'm the founder of **[Mate-Logic](https://mate-logic.tech/)**, a company focused on custom software and digital solutions.
 
 ---
 
@@ -53,7 +53,7 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 
 - 🎮 **[MtaServerQuery](https://github.com/Bernard2806/MtaServerQuery)** — .NET library to query Multi Theft Auto servers over UDP.
 - 🚒 **[BomberosVoluntariosChivilcoy](https://github.com/EEST1Chivilcoy/BomberosVoluntariosChivilcoy)** — Management system for volunteer firefighters (C# / Blazor / SQL).
-- 🚀 **[Space-Launches](https://github.com/Bernard2806/Space-Launches)** — Live space launches dashboard (Astro + Tailwind).
+- 🎵 **[YouDownloadMusic](https://github.com/Bernard2806/YouDownloadMusic)** — Linux CLI tool for downloading YouTube music as MP3.
 - 📅 **[ReservationSystem](https://github.com/EEST1Chivilcoy/ReservationSystem)** — Room booking web app (PHP / MySQL).
 
 ---
