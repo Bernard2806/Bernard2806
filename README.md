@@ -113,15 +113,15 @@ Sin actividad registrada esta semana
 **Programo principalmente en C#** 
 
 ```text
-C#                       8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Astro                    6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C#                       8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+Astro                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 12/09/2026 22:39:23 UTC
+ Last Updated on 12/09/2026 22:46:52 UTC
 <!--END_SECTION:waka-->
