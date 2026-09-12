@@ -69,26 +69,24 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 ### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat-square)
-
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-🌃 Tarde                  438 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
+🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+🌃 Tarde                  441 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.18 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Sábado                   366 commits         ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Sábado                   369 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 ```
 
 
@@ -113,13 +111,13 @@ Sin actividad registrada esta semana
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 191,949 tokens de entrada, 209,087 de salida
+🔤 196,734 tokens de entrada, 215,785 de salida
 
-💵 $84.98 costo estimado esta semana
+💵 $99.50 costo estimado esta semana
 
-Deepseek                 $84.98              █████████████████████████   100.00 % 
+Deepseek                 $99.50              █████████████████████████   100.00 % 
 
-Σ 401,036 tokens en total · $84.98 costo total
+Σ 412,519 tokens en total · $99.50 costo total
 ```
 
 **Programo principalmente en C#** 
@@ -135,5 +133,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 23:27:56 UTC
+ Last Updated on 12/09/2026 23:38:11 UTC
 <!--END_SECTION:waka-->
