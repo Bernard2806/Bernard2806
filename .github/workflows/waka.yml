@@ -1,0 +1,39 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: "30 9 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Readme with WakaTime Stats
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+
+        with:
+          # Tokens
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          PUSH_TOKEN: ${{ github.token }}
+
+          # Comportamiento
+          LOCALE: es
+          SECTION_NAME: waka
+          BADGE_STYLE: flat-square
+          COMMIT_MESSAGE: "chore: actualizar estadísticas de WakaTime"
+
+          # Estética tipo GitHub (barras SVG)
+          BAR_STYLE: svg
+          BAR_COLOR: "#2f81f7"
+          BAR_TRACK_COLOR: "#21262d"
+          BAR_RADIUS: "4"
+          TEXT_PRIMARY_COLOR: "#c9d1d9"
+          TEXT_SECONDARY_COLOR: "#8b949e"

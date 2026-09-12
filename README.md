@@ -58,6 +58,15 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 
 ---
 
+### 📈 GitHub Metrics
+
 <div align="center">
   <img src="https://github.com/Bernard2806/Bernard2806/raw/main/github-metrics.svg?v=1" alt="Metrics" width="75%">
 </div>
+
+---
+
+### 📊 WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
