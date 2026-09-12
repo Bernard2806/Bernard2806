@@ -74,21 +74,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-🌃 Tarde                  437 commits         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.27 % 
+🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+🌃 Tarde                  438 commits         ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.25 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Sábado                   365 commits         ███████░░░░░░░░░░░░░░░░░░   26.41 % 
-Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Sábado                   366 commits         ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 ```
 
 
@@ -110,14 +110,16 @@ Sin actividad registrada esta semana
 Sin actividad registrada esta semana
 ```
 
-**🤖 Modelos de IA más usados** 
+🤖 **Uso de IA esta semana** 
 
 ```text
-Deepseek                 546 lines           █████████████████████████   100.00 % 
+🔤 191,949 tokens de entrada, 209,087 de salida
 
-🔤 185,715 tokens de entrada, 172,961 de salida
-💵 $76.87 costo estimado esta semana
-Σ 358,676 tokens en total · $76.87 costo total
+💵 $84.98 costo estimado esta semana
+
+Deepseek                 $84.98              █████████████████████████   100.00 % 
+
+Σ 401,036 tokens en total · $84.98 costo total
 ```
 
 **Programo principalmente en C#** 
@@ -133,5 +135,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 23:24:06 UTC
+ Last Updated on 12/09/2026 23:27:56 UTC
 <!--END_SECTION:waka-->
