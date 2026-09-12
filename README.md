@@ -74,21 +74,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-🌃 Tarde                  435 commits         ████████░░░░░░░░░░░░░░░░░   31.52 % 
-🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.32 % 
+🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+🌃 Tarde                  436 commits         ████████░░░░░░░░░░░░░░░░░   31.57 % 
+🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.30 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-Sábado                   363 commits         ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Sábado                   364 commits         ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 ```
 
 
@@ -113,14 +113,14 @@ Sin actividad registrada esta semana
 **🤖 Modelos de IA más usados** 
 
 ```text
-Deepseek                 289 lines           █████████████████████████   100.00 % 
+Deepseek                 414 lines           █████████████████████████   100.00 % 
 ```
 
-🔤 164,366 Input Tokens, 127,807 Output Tokens
+🔤 169,390 Input Tokens, 138,527 Output Tokens
 
-💵 $50.22 Estimated AI Cost This Week
+💵 $56.64 Estimated AI Cost This Week
 
-Σ 292,173 Tokens Totales · $50.22 Coste Total
+Σ 307,917 Tokens Totales · $56.64 Coste Total
 
 **Programo principalmente en C#** 
 
@@ -135,5 +135,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 23:05:12 UTC
+ Last Updated on 12/09/2026 23:08:10 UTC
 <!--END_SECTION:waka-->
