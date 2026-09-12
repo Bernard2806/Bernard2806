@@ -6,6 +6,11 @@ on:
 
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+      - master
+
 jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
