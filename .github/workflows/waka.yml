@@ -29,7 +29,7 @@ jobs:
 
     steps:
       - name: Generate WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+        uses: Bernard2806/waka-readme-stats@master
 
         with:
           # Tokens
@@ -59,6 +59,7 @@ jobs:
           SHOW_OS: "true"
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_UPDATED_DATE: "true"
+          SHOW_AI_MODELS: "true"
 
           # Secciones a ocultar
           SHOW_SHORT_INFO: "false"
