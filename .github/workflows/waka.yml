@@ -60,6 +60,9 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "true"
           SHOW_UPDATED_DATE: "true"
           SHOW_AI_MODELS: "true"
+          SHOW_AI_TOKENS: "true"
+          SHOW_AI_COST: "true"
+          SHOW_AI_TOTAL: "true"
 
           # Secciones a ocultar
           SHOW_SHORT_INFO: "false"
