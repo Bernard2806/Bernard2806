@@ -33,16 +33,33 @@ jobs:
           GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
           PUSH_TOKEN: ${{ github.token }}
 
-          # Comportamiento
+          # Generales
           LOCALE: es
           SECTION_NAME: waka
           BADGE_STYLE: flat-square
           COMMIT_MESSAGE: "chore: actualizar estadísticas de WakaTime"
 
-          # Estética tipo GitHub (barras SVG)
-          BAR_STYLE: svg
-          BAR_COLOR: "#2f81f7"
-          BAR_TRACK_COLOR: "#21262d"
-          BAR_RADIUS: "4"
-          TEXT_PRIMARY_COLOR: "#c9d1d9"
-          TEXT_SECONDARY_COLOR: "#8b949e"
+          # Formato: barras de texto dentro de bloques ```text```
+          # (los <svg> inline no los renderiza GitHub, por eso se veian sin formato)
+          BAR_STYLE: text
+          SYMBOL_VERSION: "1"
+
+          # Secciones a mostrar
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_COMMIT: "true"
+          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_LANGUAGE: "true"
+          SHOW_EDITORS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_OS: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
+          SHOW_UPDATED_DATE: "true"
+
+          # Secciones a ocultar
+          SHOW_SHORT_INFO: "false"
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_AI_CODE_TIME: "false"
+          SHOW_AI_CODING: "false"
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_LOC_CHART: "false"
