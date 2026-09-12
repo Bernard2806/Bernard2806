@@ -7,25 +7,7 @@ jobs:
   debug:
     runs-on: ubuntu-latest
     steps:
-      - name: Who is this API key
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          echo "=== /users/current ==="
-          curl -s "https://wakatime.com/api/v1/users/current?api_key=$WAKATIME_API_KEY" -o current.json
-          python3 - <<'EOF'
-          import json
-          d = json.load(open("current.json"))
-          data = d.get("data", {})
-          print("username:", data.get("username"))
-          print("email:", data.get("email"))
-          print("display_name:", data.get("display_name"))
-          print("is_email_public:", data.get("is_email_public"))
-          print("last_heartbeat_at:", data.get("last_heartbeat_at"))
-          print("created_at:", data.get("created_at"))
-          EOF
-
-      - name: Weekly AI fields
+      - name: Weekly status
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
@@ -34,30 +16,26 @@ jobs:
           import json
           d = json.load(open("wa_week.json"))
           data = d.get("data", {})
-          print("range:", data.get("range"), "| human_readable_total:", data.get("human_readable_total"))
-          print("top-level keys:", sorted(data.keys()))
-          print("--- AI fields ---")
-          for k in sorted(data.keys()):
-              if "ai" in k.lower():
-                  print(k, "=", data[k])
-          print("--- categories ---")
-          print(data.get("categories"))
+          for k in ("range", "human_readable_total", "total_seconds", "is_up_to_date", "is_already_updating", "percent_calculated", "is_stuck", "modified_at", "timeout", "writes_only", "is_including_today", "is_coding_activity_visible", "is_category_usage_visible"):
+              print(k, "=", data.get(k))
+          print("categories =", json.dumps(data.get("categories")))
+          print("languages =", json.dumps(data.get("languages")))
+          print("editors =", json.dumps(data.get("editors")))
+          print("projects =", json.dumps(data.get("projects")))
+          print("ai_model_breakdown =", json.dumps(data.get("ai_model_breakdown")))
           EOF
 
-      - name: All-time AI fields
+      - name: Today summaries
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
-          curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=$WAKATIME_API_KEY" -o wa_all.json
+          curl -s "https://wakatime.com/api/v1/users/current/summaries?range=Today&api_key=$WAKATIME_API_KEY" -o wa_today.json
           python3 - <<'EOF'
           import json
-          d = json.load(open("wa_all.json"))
-          data = d.get("data", {})
-          print("range:", data.get("range"), "| human_readable_total:", data.get("human_readable_total"))
-          print("--- AI fields ---")
-          for k in sorted(data.keys()):
-              if "ai" in k.lower():
-                  print(k, "=", data[k])
-          print("--- categories ---")
-          print(data.get("categories"))
+          d = json.load(open("wa_today.json"))
+          print("summaries top keys:", list(d.keys()))
+          data = d.get("data", [])
+          for day in data:
+              print("range:", day.get("range"), "| grand_total:", day.get("grand_total"))
+              print("categories:", json.dumps(day.get("categories")))
           EOF
