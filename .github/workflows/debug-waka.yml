@@ -1,0 +1,63 @@
+name: Debug Waka
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Who is this API key
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          echo "=== /users/current ==="
+          curl -s "https://wakatime.com/api/v1/users/current?api_key=$WAKATIME_API_KEY" -o current.json
+          python3 - <<'EOF'
+          import json
+          d = json.load(open("current.json"))
+          data = d.get("data", {})
+          print("username:", data.get("username"))
+          print("email:", data.get("email"))
+          print("display_name:", data.get("display_name"))
+          print("is_email_public:", data.get("is_email_public"))
+          print("last_heartbeat_at:", data.get("last_heartbeat_at"))
+          print("created_at:", data.get("created_at"))
+          EOF
+
+      - name: Weekly AI fields
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=$WAKATIME_API_KEY" -o wa_week.json
+          python3 - <<'EOF'
+          import json
+          d = json.load(open("wa_week.json"))
+          data = d.get("data", {})
+          print("range:", data.get("range"), "| human_readable_total:", data.get("human_readable_total"))
+          print("top-level keys:", sorted(data.keys()))
+          print("--- AI fields ---")
+          for k in sorted(data.keys()):
+              if "ai" in k.lower():
+                  print(k, "=", data[k])
+          print("--- categories ---")
+          print(data.get("categories"))
+          EOF
+
+      - name: All-time AI fields
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=$WAKATIME_API_KEY" -o wa_all.json
+          python3 - <<'EOF'
+          import json
+          d = json.load(open("wa_all.json"))
+          data = d.get("data", {})
+          print("range:", data.get("range"), "| human_readable_total:", data.get("human_readable_total"))
+          print("--- AI fields ---")
+          for k in sorted(data.keys()):
+              if "ai" in k.lower():
+                  print(k, "=", data[k])
+          print("--- categories ---")
+          print(data.get("categories"))
+          EOF
