@@ -7,35 +7,24 @@ jobs:
   debug:
     runs-on: ubuntu-latest
     steps:
-      - name: Weekly status
+      - name: Ranges and cumulative totals
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=$WAKATIME_API_KEY" -o wa_week.json
+          curl -s "https://wakatime.com/api/v1/users/current/summaries?range=Last 7 Days&api_key=$WAKATIME_API_KEY" -o wa_sum.json
           python3 - <<'EOF'
           import json
-          d = json.load(open("wa_week.json"))
-          data = d.get("data", {})
-          for k in ("range", "human_readable_total", "total_seconds", "is_up_to_date", "is_already_updating", "percent_calculated", "is_stuck", "modified_at", "timeout", "writes_only", "is_including_today", "is_coding_activity_visible", "is_category_usage_visible"):
-              print(k, "=", data.get(k))
-          print("categories =", json.dumps(data.get("categories")))
-          print("languages =", json.dumps(data.get("languages")))
-          print("editors =", json.dumps(data.get("editors")))
-          print("projects =", json.dumps(data.get("projects")))
-          print("ai_model_breakdown =", json.dumps(data.get("ai_model_breakdown")))
-          EOF
-
-      - name: Today summaries
-        env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          curl -s "https://wakatime.com/api/v1/users/current/summaries?range=Today&api_key=$WAKATIME_API_KEY" -o wa_today.json
-          python3 - <<'EOF'
-          import json
-          d = json.load(open("wa_today.json"))
-          print("summaries top keys:", list(d.keys()))
-          data = d.get("data", [])
-          for day in data:
-              print("range:", day.get("range"), "| grand_total:", day.get("grand_total"))
-              print("categories:", json.dumps(day.get("categories")))
+          stats = json.load(open("wa_week.json"))["data"]
+          sumr = json.load(open("wa_sum.json"))
+          print("stats start/end:", stats.get("start"), "->", stats.get("end"), "| is_including_today:", stats.get("is_including_today"))
+          print("summaries start/end:", sumr.get("start"), "->", sumr.get("end"))
+          ct = sumr.get("cumulative_total")
+          print("cumulative_total keys:", sorted(ct.keys()) if ct else None)
+          print("cumulative_total.ai_model_breakdown:", json.dumps(ct.get("ai_model_breakdown") if ct else None))
+          print("cumulative_total.total_seconds:", ct.get("total_seconds") if ct else None)
+          print("cumulative_total.ai_input_tokens:", ct.get("ai_input_tokens") if ct else None)
+          print("cumulative_total.ai_output_tokens:", ct.get("ai_output_tokens") if ct else None)
+          print("cumulative_total.ai_model_total_cost:", ct.get("ai_model_total_cost") if ct else None)
+          print("cumulative_total.ai_model_costs:", json.dumps(ct.get("ai_model_costs") if ct else None))
           EOF
