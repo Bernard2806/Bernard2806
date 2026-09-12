@@ -1,0 +1,34 @@
+name: Debug Waka Time
+
+on:
+  workflow_dispatch:
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Analyze code time
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          curl -s "https://wakatime.com/api/v1/users/current/stats/all_time?api_key=$WAKATIME_API_KEY" -o all.json
+          curl -s "https://wakatime.com/api/v1/users/current/summaries?range=Last%207%20Days&api_key=$WAKATIME_API_KEY" -o sum.json
+          python3 - <<'EOF'
+          import json
+          all_d = json.load(open("all.json"))["data"]
+          print("ALL_TIME total_seconds:", all_d.get("total_seconds"), "| human_readable_total:", all_d.get("human_readable_total"))
+          for c in all_d.get("categories", []):
+              print("  ALL category:", c.get("name"), "=", c.get("text"), "| seconds:", c.get("total_seconds"))
+          sum_d = json.load(open("sum.json"))
+          total_secs = 0
+          ai_secs = 0
+          for day in sum_d.get("data", []):
+              g = day.get("grand_total") or {}
+              total_secs += g.get("total_seconds") or 0
+              for c in day.get("categories") or []:
+                  if c.get("name") == "AI Coding":
+                      ai_secs += c.get("total_seconds") or 0
+          print("WEEK total_seconds:", round(total_secs), "| AI Coding seconds:", round(ai_secs), "| diff (human+other):", round(total_secs - ai_secs))
+          days = sum_d.get("data") or [{}]
+          print("WEEK last-day categories:", json.dumps(days[-1].get("categories")))
+          EOF
