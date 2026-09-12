@@ -34,10 +34,6 @@ jobs:
           config_timezone: America/Argentina/Buenos_Aires
           config_twemoji: yes
 
-          # Calendario
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
           # Lenguajes
           plugin_languages: yes
           plugin_languages_ignored: html, css
