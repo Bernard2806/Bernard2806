@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-🌃 Tarde                  441 commits         ████████░░░░░░░░░░░░░░░░░   31.82 % 
-🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.18 % 
+🌞 Mañana                 169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+🌆 Día                    330 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+🌃 Tarde                  442 commits         ████████░░░░░░░░░░░░░░░░░   31.87 % 
+🌙 Noche                  446 commits         ████████░░░░░░░░░░░░░░░░░   32.16 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Sábado                   369 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Lunes                    197 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Sábado                   370 commits         ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+Domingo                  171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 ```
 
 
@@ -99,12 +99,6 @@ Domingo                  171 commits         ███░░░░░░░░�
 Sin actividad registrada esta semana
 
 🔥 Editores: 
-Sin actividad registrada esta semana
-
-🐱‍💻 Proyectos: 
-Sin actividad registrada esta semana
-
-💻 Sistema Operativo: 
 Sin actividad registrada esta semana
 ```
 
@@ -133,5 +127,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 23:38:11 UTC
+ Last Updated on 12/09/2026 23:40:30 UTC
 <!--END_SECTION:waka-->
