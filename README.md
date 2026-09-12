@@ -113,14 +113,12 @@ Sin actividad registrada esta semana
 **🤖 Modelos de IA más usados** 
 
 ```text
-Deepseek                 414 lines           █████████████████████████   100.00 % 
+Deepseek                 472 lines           █████████████████████████   100.00 % 
+
+🔤 176,295 tokens de entrada, 158,943 de salida
+💵 $61.26 costo estimado esta semana
+Σ 335,238 tokens en total · $61.26 costo total
 ```
-
-🔤 169,390 Input Tokens, 138,527 Output Tokens
-
-💵 $56.64 Estimated AI Cost This Week
-
-Σ 307,917 Tokens Totales · $56.64 Coste Total
 
 **Programo principalmente en C#** 
 
@@ -135,5 +133,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 23:08:10 UTC
+ Last Updated on 12/09/2026 23:14:05 UTC
 <!--END_SECTION:waka-->
