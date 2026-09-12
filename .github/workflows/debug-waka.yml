@@ -12,7 +12,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           curl -s "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=$WAKATIME_API_KEY" -o wa_week.json
-          curl -s "https://wakatime.com/api/v1/users/current/summaries?range=Last 7 Days&api_key=$WAKATIME_API_KEY" -o wa_sum.json
+          curl -s "https://wakatime.com/api/v1/users/current/summaries?range=Last%207%20Days&api_key=$WAKATIME_API_KEY" -o wa_sum.json
           python3 - <<'EOF'
           import json
           stats = json.load(open("wa_week.json"))["data"]
