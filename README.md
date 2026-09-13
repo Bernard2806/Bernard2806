@@ -96,10 +96,14 @@ Domingo                  171 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-Sin actividad registrada esta semana
+YAML                     1 hr 3 mins         ████████████░░░░░░░░░░░░░   46.87 % 
+Markdown                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Python                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+INI                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Perl                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editores: 
-Sin actividad registrada esta semana
+OpenCode                 2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **Uso de IA esta semana** 
@@ -127,5 +131,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 23:40:30 UTC
+ Last Updated on 13/09/2026 13:53:18 UTC
 <!--END_SECTION:waka-->
