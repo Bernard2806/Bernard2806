@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-🌆 Día                    345 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌃 Tarde                  443 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
-🌙 Noche                  451 commits         ████████░░░░░░░░░░░░░░░░░   32.01 % 
+🌞 Mañana                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Día                    345 commits         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+🌃 Tarde                  473 commits         ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌙 Noche                  451 commits         ████████░░░░░░░░░░░░░░░░░   31.34 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    203 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Sábado                   370 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Domingo                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Lunes                    233 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Martes                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Miércoles                188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Jueves                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Viernes                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Sábado                   370 commits         ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Domingo                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
 
@@ -96,27 +96,30 @@ Domingo                  187 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-YAML                     1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Python                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-CSS                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Markdown                 2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.18 % 
+YAML                     1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+MDX                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+JavaScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editores: 
-OpenCode                 3 hrs 26 mins       █████████████████████████   100.00 % 
+OpenCode                 5 hrs 47 mins       ███████████████████████░░   90.72 % 
+Antigravity IDE          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Antigravity Desktop      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 701,721 tokens de entrada, 347,527 de salida
+🔤 1,643,097 tokens de entrada, 425,384 de salida
 
-💵 $186.39 costo estimado esta semana
+💵 $237.94 costo estimado esta semana
 
-Deepseek                 $186.39             █████████████████████████   100.00 % 
+Deepseek                 $201.03             █████████████████████░░░░   84.49 % 
+Glm                      $36.92              ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 Gemini                   $0.00               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
-Σ 412,519 tokens en total · $99.50 costo total
+Σ 2,068,481 tokens en total · $237.94 costo total
 ```
 
 **Programo principalmente en C#** 
@@ -132,5 +135,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 16:00:12 UTC
+ Last Updated on 15/09/2026 14:26:36 UTC
 <!--END_SECTION:waka-->
