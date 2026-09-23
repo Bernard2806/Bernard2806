@@ -96,30 +96,29 @@ Domingo                  187 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-Astro                    3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Markdown                 2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-TypeScript               1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Other                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Astro                    3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.60 % 
+TypeScript               1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Java                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editores: 
-OpenCode                 4 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.11 % 
-Antigravity IDE          2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-Antigravity CLI          1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Opencode Cli             1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+OpenCode                 4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.63 % 
+Antigravity IDE          2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
+Antigravity CLI          1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Opencode Cli             1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 ```
 
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 2,474,037 tokens de entrada, 407,554 de salida
+🔤 1,028,093 tokens de entrada, 268,049 de salida
 
-💵 $104.79 costo estimado esta semana
+💵 $71.42 costo estimado esta semana
 
-Deepseek                 $102.14             ████████████████████████░   97.48 % 
-Opencode-Cli             $1.23               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Nemotron                 $1.10               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Qwen                     $0.32               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Deepseek                 $69.09              ████████████████████████░   96.74 % 
+Opencode-Cli             $1.23               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Nemotron                 $1.10               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 Gemini                   $0.00               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 Σ 5,305,479 tokens en total · $363.00 costo total
@@ -138,5 +137,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 14:09:06 UTC
+ Last Updated on 23/09/2026 14:21:30 UTC
 <!--END_SECTION:waka-->
