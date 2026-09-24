@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-🌆 Día                    346 commits         ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-🌃 Tarde                  570 commits         █████████░░░░░░░░░░░░░░░░   37.01 % 
-🌙 Noche                  454 commits         ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+🌞 Mañana                 170 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+🌆 Día                    346 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+🌃 Tarde                  571 commits         █████████░░░░░░░░░░░░░░░░   37.05 % 
+🌙 Noche                  454 commits         ███████░░░░░░░░░░░░░░░░░░   29.46 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    233 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Martes                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Miércoles                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Jueves                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Sábado                   406 commits         ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Domingo                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Lunes                    233 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Martes                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Miércoles                237 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Jueves                   180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Sábado                   406 commits         ███████░░░░░░░░░░░░░░░░░░   26.35 % 
+Domingo                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
 ```
 
 
@@ -112,16 +112,16 @@ Opencode Cli             1 hr 3 mins         ███░░░░░░░░�
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 1,028,093 tokens de entrada, 268,049 de salida
+🔤 1,188,550 tokens de entrada, 278,689 de salida
 
-💵 $71.42 costo estimado esta semana
+💵 $74.15 costo estimado esta semana
 
-Deepseek                 $69.09              ████████████████████████░   96.74 % 
-Opencode-Cli             $1.23               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Nemotron                 $1.10               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Gemini                   $0.00               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 $71.67              ████████████████████████░   96.66 % 
+Opencode-Cli             $1.23               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Nemotron                 $1.10               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Gemini                   $0.15               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
-Σ 5,305,479 tokens en total · $363.00 costo total
+Σ 5,626,119 tokens en total · $378.67 costo total
 ```
 
 **Programo principalmente en C#** 
@@ -137,5 +137,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 14:21:30 UTC
+ Last Updated on 24/09/2026 02:40:03 UTC
 <!--END_SECTION:waka-->
