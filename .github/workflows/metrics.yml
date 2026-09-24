@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Generate Metrics
-        uses: Bernard2806/metrics@master
+        uses: EUR-UN/metrics-community@v3.35.0-community.2
 
         with:
           token: ${{ secrets.METRICS_TOKEN }}
