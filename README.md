@@ -96,28 +96,29 @@ Domingo                  187 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-Other                    45 mins             ████████████░░░░░░░░░░░░░   46.52 % 
-Java                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-YAML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Groovy                   8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Other                    44 mins             ████████░░░░░░░░░░░░░░░░░   31.90 % 
+Java                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Groovy                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+YAML                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
 
 🔥 Editores: 
-OpenCode                 47 mins             ██████████████████████░░░   88.29 % 
-Antigravity IDE          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+OpenCode                 1 hr 2 mins         ████████████████░░░░░░░░░   65.25 % 
+Opencode Cli             26 mins             ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+Antigravity IDE          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 1,660,585 tokens de entrada, 113,309 de salida
+🔤 2,472,051 tokens de entrada, 216,433 de salida
 
-💵 $25.15 costo estimado esta semana
+💵 $25.52 costo estimado esta semana
 
-Deepseek                 $18.25              ██████████████████░░░░░░░   72.56 % 
-Code                     $4.08               ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-GPT                      $1.62               ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Gemini                   $1.20               █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Deepseek                 $18.25              ██████████████████░░░░░░░   71.53 % 
+Code                     $4.08               ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+GPT                      $1.98               ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Gemini                   $1.20               █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 Σ 5,945,272 tokens en total · $378.95 costo total
 ```
@@ -135,5 +136,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 14:49:01 UTC
+ Last Updated on 28/09/2026 17:48:13 UTC
 <!--END_SECTION:waka-->
