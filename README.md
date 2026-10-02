@@ -111,15 +111,14 @@ Antigravity IDE          4 mins              █░░░░░░░░░░�
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 2,442,670 tokens de entrada, 435,802 de salida
+🔤 2,280,301 tokens de entrada, 429,250 de salida
 
-💵 $32.74 costo estimado esta semana
+💵 $32.60 costo estimado esta semana
 
-Deepseek                 $31.42              ████████████████████████░   95.97 % 
-GPT                      $1.18               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Gemini                   $0.13               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Deepseek                 $31.42              ████████████████████████░   96.37 % 
+GPT                      $1.18               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
-Σ 7,813,005 tokens en total · $379.91 costo total
+Σ 8,261,137 tokens en total · $411.40 costo total
 ```
 
 **Programo principalmente en C#** 
@@ -135,5 +134,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2026 16:40:00 UTC
+ Last Updated on 02/10/2026 15:58:06 UTC
 <!--END_SECTION:waka-->
