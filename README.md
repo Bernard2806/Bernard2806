@@ -111,16 +111,16 @@ OpenCode                 1 hr 3 mins         █████░░░░░░�
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 3,834,893 tokens de entrada, 629,741 de salida
+🔤 2,671,193 tokens de entrada, 509,067 de salida
 
-💵 $35.14 costo estimado esta semana
+💵 $34.64 costo estimado esta semana
 
-Deepseek                 $32.13              ███████████████████████░░   91.44 % 
-Gemini                   $1.77               █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-GPT                      $1.18               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Deepseek                 $32.13              ███████████████████████░░   92.75 % 
+Gemini                   $1.77               █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+GPT                      $0.69               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 Longcat                  $0.06               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
-Σ 8,261,137 tokens en total · $411.40 costo total
+Σ 10,015,418 tokens en total · $413.22 costo total
 ```
 
 **Programo principalmente en C#** 
@@ -136,5 +136,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 20:07:11 UTC
+ Last Updated on 04/10/2026 14:58:10 UTC
 <!--END_SECTION:waka-->
