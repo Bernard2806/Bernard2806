@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-🌆 Día                    362 commits         ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-🌃 Tarde                  574 commits         █████████░░░░░░░░░░░░░░░░   36.03 % 
-🌙 Noche                  491 commits         ████████░░░░░░░░░░░░░░░░░   30.82 % 
+🌞 Mañana                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+🌆 Día                    362 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+🌃 Tarde                  578 commits         █████████░░░░░░░░░░░░░░░░   36.17 % 
+🌙 Noche                  491 commits         ████████░░░░░░░░░░░░░░░░░   30.73 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    224 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Martes                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Miércoles                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Jueves                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Sábado                   416 commits         ███████░░░░░░░░░░░░░░░░░░   26.11 % 
-Domingo                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Lunes                    225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Martes                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Miércoles                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Jueves                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Sábado                   416 commits         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Domingo                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 ```
 
 
@@ -96,28 +96,29 @@ Domingo                  187 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-HTML                     2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   40.41 % 
-Markdown                 54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
-YAML                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Groovy                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+HTML                     2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.81 % 
+Markdown                 1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+iCalendar                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 🔥 Editores: 
-Opencode Cli             2 hrs 34 mins       █████████████░░░░░░░░░░░░   51.02 % 
-Antigravity IDE          1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-OpenCode                 1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Opencode Cli             2 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.19 % 
+Antigravity IDE          1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
+OpenCode                 1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
 ```
 
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 2,671,193 tokens de entrada, 509,067 de salida
+🔤 2,799,311 tokens de entrada, 527,500 de salida
 
-💵 $34.64 costo estimado esta semana
+💵 $35.52 costo estimado esta semana
 
-Deepseek                 $32.13              ███████████████████████░░   92.75 % 
-Gemini                   $1.77               █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-GPT                      $0.69               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Deepseek                 $32.13              ███████████████████████░░   90.44 % 
+Gemini                   $1.77               █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Mimo                     $0.90               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+GPT                      $0.67               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 Longcat                  $0.06               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 Σ 10,015,418 tokens en total · $413.22 costo total
@@ -126,15 +127,15 @@ Longcat                  $0.06               ░░░░░░░░░░░�
 **Programo principalmente en C#** 
 
 ```text
-C#                       8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Astro                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+C#                       8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Astro                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 04/10/2026 14:58:10 UTC
+ Last Updated on 05/10/2026 18:45:43 UTC
 <!--END_SECTION:waka-->
