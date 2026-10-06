@@ -96,32 +96,32 @@ Domingo                  191 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-HTML                     2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.81 % 
-Markdown                 1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-iCalendar                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+HTML                     2 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.83 % 
+Markdown                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+iCalendar                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editores: 
-Opencode Cli             2 hrs 15 mins       ████████████░░░░░░░░░░░░░   47.19 % 
-Antigravity IDE          1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-OpenCode                 1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Opencode Cli             1 hr 53 mins        ███████████░░░░░░░░░░░░░░   43.35 % 
+Antigravity IDE          1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+OpenCode                 1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
 ```
 
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 2,799,311 tokens de entrada, 527,500 de salida
+🔤 2,190,344 tokens de entrada, 313,178 de salida
 
-💵 $35.52 costo estimado esta semana
+💵 $34.96 costo estimado esta semana
 
-Deepseek                 $32.13              ███████████████████████░░   90.44 % 
-Gemini                   $1.77               █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Mimo                     $0.90               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-GPT                      $0.67               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+DeepSeek                 $32.13              ███████████████████████░░   91.90 % 
+Gemini                   $1.77               █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+MiMo                     $0.90               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+GPT                      $0.10               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Longcat                  $0.06               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
-Σ 10,015,418 tokens en total · $413.22 costo total
+Σ 10,313,631 tokens en total · $414.16 costo total
 ```
 
 **Programo principalmente en C#** 
@@ -137,5 +137,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 18:45:43 UTC
+ Last Updated on 06/10/2026 16:09:28 UTC
 <!--END_SECTION:waka-->
