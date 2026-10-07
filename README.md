@@ -96,30 +96,29 @@ Domingo                  191 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-HTML                     2 hrs 2 mins        ████████████░░░░░░░░░░░░░   46.83 % 
-Markdown                 57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-iCalendar                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+HTML                     1 hr 20 mins        ███████████░░░░░░░░░░░░░░   45.81 % 
+Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+YAML                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+iCalendar                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Java Properties          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🔥 Editores: 
-Opencode Cli             1 hr 53 mins        ███████████░░░░░░░░░░░░░░   43.35 % 
-Antigravity IDE          1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.68 % 
-OpenCode                 1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Antigravity IDE          1 hr 25 mins        ████████████░░░░░░░░░░░░░   48.79 % 
+OpenCode                 53 mins             ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Opencode Cli             36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
 ```
 
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 2,190,344 tokens de entrada, 313,178 de salida
+🔤 1,819,819 tokens de entrada, 234,769 de salida
 
-💵 $34.96 costo estimado esta semana
+💵 $2.76 costo estimado esta semana
 
-DeepSeek                 $32.13              ███████████████████████░░   91.90 % 
-Gemini                   $1.77               █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-MiMo                     $0.90               █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-GPT                      $0.10               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Longcat                  $0.06               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Gemini                   $1.77               ████████████████░░░░░░░░░   64.04 % 
+MiMo                     $0.90               ████████░░░░░░░░░░░░░░░░░   32.79 % 
+Longcat                  $0.06               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+GPT                      $0.03               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 Σ 10,313,631 tokens en total · $414.16 costo total
 ```
@@ -137,5 +136,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 16:09:28 UTC
+ Last Updated on 07/10/2026 16:49:10 UTC
 <!--END_SECTION:waka-->
