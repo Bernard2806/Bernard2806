@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-🌆 Día                    362 commits         ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-🌃 Tarde                  578 commits         █████████░░░░░░░░░░░░░░░░   36.17 % 
-🌙 Noche                  491 commits         ████████░░░░░░░░░░░░░░░░░   30.73 % 
+🌞 Mañana                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+🌆 Día                    362 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
+🌃 Tarde                  579 commits         █████████░░░░░░░░░░░░░░░░   36.10 % 
+🌙 Noche                  491 commits         ████████░░░░░░░░░░░░░░░░░   30.61 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Martes                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Miércoles                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Jueves                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Sábado                   416 commits         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
-Domingo                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Lunes                    225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Martes                   188 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Miércoles                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Jueves                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Sábado                   416 commits         ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Domingo                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 ```
 
 
@@ -96,16 +96,15 @@ Domingo                  191 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-HTML                     1 hr 20 mins        ███████████░░░░░░░░░░░░░░   45.81 % 
-Markdown                 31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-YAML                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-iCalendar                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-Java Properties          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+HTML                     1 hr 20 mins        ███████████████░░░░░░░░░░   61.95 % 
+Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+iCalendar                9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Java Properties          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🔥 Editores: 
-Antigravity IDE          1 hr 25 mins        ████████████░░░░░░░░░░░░░   48.79 % 
-OpenCode                 53 mins             ████████░░░░░░░░░░░░░░░░░   30.59 % 
-Opencode Cli             36 mins             █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Antigravity IDE          1 hr 25 mins        ████████████████░░░░░░░░░   64.95 % 
+OpenCode                 46 mins             █████████░░░░░░░░░░░░░░░░   35.05 % 
 ```
 
 🤖 **Uso de IA esta semana** 
@@ -126,15 +125,15 @@ GPT                      $0.03               ░░░░░░░░░░░�
 **Programo principalmente en C#** 
 
 ```text
-C#                       8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Astro                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+C#                       8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Astro                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 16:49:10 UTC
+ Last Updated on 08/10/2026 16:49:32 UTC
 <!--END_SECTION:waka-->
