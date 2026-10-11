@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-🌆 Día                    363 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
-🌃 Tarde                  600 commits         █████████░░░░░░░░░░░░░░░░   36.67 % 
-🌙 Noche                  501 commits         ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌞 Mañana                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+🌆 Día                    378 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+🌃 Tarde                  613 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
+🌙 Noche                  503 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Martes                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Miércoles                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Jueves                   243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Sábado                   425 commits         ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-Domingo                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Lunes                    225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Martes                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Miércoles                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Jueves                   243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Sábado                   444 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Domingo                  202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 ```
 
 
@@ -121,15 +121,15 @@ GPT                      $0.03               █░░░░░░░░░░�
 **Programo principalmente en C#** 
 
 ```text
-Astro                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Astro                    7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 10/10/2026 15:32:59 UTC
+ Last Updated on 11/10/2026 21:14:40 UTC
 <!--END_SECTION:waka-->
