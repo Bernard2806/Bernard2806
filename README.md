@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-🌆 Día                    378 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-🌃 Tarde                  613 commits         █████████░░░░░░░░░░░░░░░░   36.79 % 
-🌙 Noche                  503 commits         ████████░░░░░░░░░░░░░░░░░   30.19 % 
+🌞 Mañana                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+🌆 Día                    378 commits         ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+🌃 Tarde                  615 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
+🌙 Noche                  508 commits         ████████░░░░░░░░░░░░░░░░░   30.36 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Martes                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Miércoles                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Jueves                   243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Sábado                   444 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-Domingo                  202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Lunes                    230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Martes                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Miércoles                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Jueves                   243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Sábado                   444 commits         ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+Domingo                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 ```
 
 
@@ -96,26 +96,16 @@ Domingo                  202 commits         ███░░░░░░░░�
 🕑︎ Zona Horaria: America/Argentina/Buenos_Aires
 
 💬 Lenguajes: 
-Markdown                 26 mins             ████████████████████░░░░░   80.04 % 
-Java Properties          6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sin actividad registrada esta semana
 
 🔥 Editores: 
-Opencode Cli             22 mins             ██████████████████░░░░░░░   70.53 % 
-OpenCode                 9 mins              ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+Sin actividad registrada esta semana
 ```
 
 🤖 **Uso de IA esta semana** 
 
 ```text
-🔤 265,421 tokens de entrada, 32,792 de salida
-
-💵 $0.94 costo estimado esta semana
-
-MiMo                     $0.90               ████████████████████████░   96.73 % 
-GPT                      $0.03               █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-
-Σ 10,313,631 tokens en total · $414.16 costo total
+Sin actividad de IA registrada esta semana
 ```
 
 **Programo principalmente en C#** 
@@ -131,5 +121,5 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 21:14:40 UTC
+ Last Updated on 12/10/2026 19:15:40 UTC
 <!--END_SECTION:waka-->
