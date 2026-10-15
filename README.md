@@ -72,21 +72,21 @@ Hi! I'm **Bernardo**, a full stack developer from Argentina and a Systems studen
 **Soy nocturno 🦉** 
 
 ```text
-🌞 Mañana                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-🌆 Día                    378 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌃 Tarde                  629 commits         █████████░░░░░░░░░░░░░░░░   37.29 % 
-🌙 Noche                  508 commits         ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌞 Mañana                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+🌆 Día                    397 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+🌃 Tarde                  635 commits         █████████░░░░░░░░░░░░░░░░   37.09 % 
+🌙 Noche                  508 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
 ```
 📅 **Soy más productivo los Sábado** 
 
 ```text
-Lunes                    238 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Martes                   196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Miércoles                251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Jueves                   243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Sábado                   444 commits         ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Domingo                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+Lunes                    243 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Martes                   197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Miércoles                267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Jueves                   246 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Viernes                  111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Sábado                   444 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Domingo                  204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 
@@ -108,18 +108,18 @@ Sin actividad registrada esta semana
 Sin actividad de IA registrada esta semana
 ```
 
-**Programo principalmente en C#** 
+**Programo principalmente en Astro** 
 
 ```text
-Astro                    7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Astro                    8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 
 
 
 
- Last Updated on 14/10/2026 14:38:54 UTC
+ Last Updated on 15/10/2026 19:51:48 UTC
 <!--END_SECTION:waka-->
