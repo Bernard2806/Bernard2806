@@ -19,7 +19,7 @@
 Hi! I'm **Bernardo**, a 20-year-old full stack developer from Argentina. I like understanding how things work, then improving them or building my own version. I mostly work with **.NET (C#), Blazor, PHP, Java and Astro**, and I spend a lot of time on **Linux and infrastructure**.
 
 - 🎓 Studying for a **B.S. in Information Systems** at the [Universidad Nacional de Luján (UNLu)](https://www.unlu.edu.ar/), plus a **Cybersecurity diploma** at UNTREF.
-- 🏛️ **Vice President of CODES**, the Centro Organizado de Estudiantes de Sistemas (the student association for Information Systems at UNLu).
+- 🏛️ **Vice President of [CODES](https://www.codesunlu.tech/)**, the Centro Organizado de Estudiantes de Sistemas (the student association for Information Systems at UNLu). [All links](https://link.codesunlu.com.ar/) · [GitHub](https://github.com/CODES-UNLU)
 - 🧉 **Founder of [Mate-Logic](https://mate-logic.tech/)**: custom web, mobile and desktop software, plus [open source tools](https://opensource.mate-logic.tech/).
 - 🚒 Previously **Web Developer & Team Lead** for the Bomberos Voluntarios de Chivilcoy management system (2024 – 2026).
 - 🤝 Open to remote or hybrid opportunities.
@@ -73,6 +73,15 @@ Hi! I'm **Bernardo**, a 20-year-old full stack developer from Argentina. I like 
 - 📄 **[CVForge](https://github.com/Mate-Logic/CVForge)**: Claude Code / opencode skill that generates printable, ATS-friendly HTML resumes in 7 formats. *(Mate-Logic)*
 - 🐧 **[Antigravity for Linux](https://mate-logic.github.io/antigravity-for-linux-website/)**: community-maintained AppImage builds of Google's Antigravity Desktop Agent and IDE. *(Mate-Logic)*
 - 🌐 **[Personal website](https://github.com/Bernard2806/Perfil)** ([live](https://bernard2806.is-a.dev/)): my interactive profile with projects, ventures and contact links. *(Astro)*
+
+### 🏛️ Built for CODES
+
+- 📚 **[ApunteUNLu](https://github.com/CODES-UNLU/ApunteUNLu)** ([live](https://apuntes.codesunlu.com.ar/)): platform for uploading and sharing notes, past midterms and finals from the Information Systems degree.
+- 📖 **[CODES Wiki](https://github.com/CODES-UNLU/Wiki-CODES)** ([live](https://wiki.codesunlu.com.ar/)): wiki by and for UNLu students, with degree resources, educational benefits and tech tips.
+- 🔗 **[CODES Links](https://github.com/CODES-UNLU/linkyee)** ([live](https://link.codesunlu.com.ar/)): open source link hub with all of CODES' resources and socials.
+- 🌐 **[CODES Website](https://github.com/CODES-UNLU/Web-CODES)** ([live](https://www.codesunlu.tech/)): official website of the student association.
+- 🤖 **[CODES Discord Bot](https://github.com/CODES-UNLU/CODES-DiscordBOT)**: internal bot for the CODES Discord server.
+- 🎨 **[Brand Manual](https://github.com/CODES-UNLU/Identidad-CODES)** ([live](https://codes-unlu.github.io/Identidad-CODES/)): logo, color palette and usage guidelines.
 
 ### 📂 Earlier Work
 
