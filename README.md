@@ -18,7 +18,7 @@
 
 Hi! I'm **Bernardo**, a 20-year-old full stack developer from Argentina. I like understanding how things work, then improving them or building my own version. I mostly work with **.NET (C#), Blazor, PHP, Java and Astro**, and I spend a lot of time on **Linux and infrastructure**.
 
-- 🎓 Studying for a **B.S. in Information Systems** at the [Universidad Nacional de Luján (UNLu)](https://www.unlu.edu.ar/), plus a **[Diploma in Cybersecurity](https://untref.edu.ar/carrera/diplomatura-en-ciberseguridad)** at the [Universidad Nacional de Tres de Febrero (UNTREF)](https://untref.edu.ar/).
+- 🎓 Studying for a **[B.S. in Information Systems](https://www.unlu.edu.ar/carg-sistemas.html)** at the [Universidad Nacional de Luján (UNLu)](https://www.unlu.edu.ar/), plus a **[Diploma in Cybersecurity](https://untref.edu.ar/carrera/diplomatura-en-ciberseguridad)** at the [Universidad Nacional de Tres de Febrero (UNTREF)](https://untref.edu.ar/).
 - 🏛️ **Vice President of [CODES](https://www.codesunlu.tech/)**, the Centro Organizado de Estudiantes de Sistemas (the student association for Information Systems at UNLu). [All links](https://link.codesunlu.com.ar/) · [GitHub](https://github.com/CODES-UNLU)
 - 🧉 **Founder of [Mate-Logic](https://mate-logic.tech/)**: custom web, mobile and desktop software, plus [open source tools](https://opensource.mate-logic.tech/).
 - 🚒 Previously **Web Developer & Team Lead** for the Bomberos Voluntarios de Chivilcoy management system (2024 – 2026).
